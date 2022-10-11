@@ -1,0 +1,481 @@
+@media screen and (max-width:1150px) {
+    .main {
+        height: 300px;
+    }
+    .main .text p {
+        font-size: 25px;
+        line-height: 27px;
+        color: #FFFFFF;
+    }
+    .main .vedio img {
+        width: 438px;
+        margin-top: 41px;
+        height: 200px;
+    }
+}
+
+@media screen and (max-width:1065px) {
+    .main {
+        height: 300px;
+    }
+    .main .text p {
+        font-size: 22px;
+        line-height: 24px;
+        color: #FFFFFF;
+    }
+    .main .vedio img {
+        width: 400px;
+        margin-top: 35px;
+        height: 170px;
+    }
+    .app .mobile img {
+        margin-top: 91px;
+        width: 100%;
+        height: 74%;
+    }
+    .app .essay ul {
+        font-size: 16px;
+    }
+    .app .essay li {
+        font-size: 16px;
+    }
+    .app .essay span {
+        font-size: 21px;
+    }
+    .cards {
+        height: 340px;
+    }
+}
+
+@media screen and (max-width:915px) {
+    .main {
+        height: 260px;
+    }
+    .main .text p {
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+    }
+    .main .vedio img {
+        width: 300px;
+        margin-top: 35px;
+        height: 140px;
+    }
+    .cards {
+        height: 37 0px;
+    }
+}
+
+@media screen and (max-width:800px) {
+    .main {
+        height: 280px;
+    }
+    .main .text p {
+        font-size: 18px;
+        line-height: 19px;
+        color: #FFFFFF;
+    }
+    .main .vedio img {
+        width: 280px;
+        margin-top: 65px;
+        height: 120px;
+    }
+    .red {
+        width: 173px;
+    }
+    .app .mobile img {
+        margin-top: 91px;
+        width: 100%;
+        height: 68%;
+    }
+    .app .essay {
+        margin-left: -20px;
+    }
+    .app .essay ul {
+        font-size: 13px;
+    }
+    .app .essay li {
+        font-size: 13px;
+    }
+    .app .essay span {
+        font-size: 16px;
+    }
+    .cards {
+        height: 400px;
+    }
+    .stories .story1 p {
+        font-size: 20px;
+    }
+    .stories .story2 p {
+        font-size: 12px;
+    }
+    .below {
+        width: 50%;
+        height: 60%;
+    }
+    .below .belowtop {
+        padding: 1px;
+        margin-top: -20px;
+    }
+    .below .belowtop img {
+        width: 80px;
+        height: 60px;
+    }
+    .ios {
+        width: 250px;
+    }
+    .belowtext {
+        display: block;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .main .text {
+        margin-left: 70px;
+        margin-top: 0px;
+    }
+    .main .vedio img {
+        width: 280px;
+        margin-top: 15px;
+        height: 150px;
+    }
+    .app .mobile img {
+        margin-top: 91px;
+        width: 100%;
+        height: 70%;
+    }
+    .app .essay {
+        margin-top: 40px;
+        margin-left: -40px;
+    }
+    .app .essay span {
+        font-size: 12px;
+    }
+    .app .essay ul {
+        font-size: 10px;
+    }
+    .app .essay li {
+        font-size: 10px;
+    }
+    .app .mobile img {
+        margin-top: 29px;
+        width: 100%;
+        height: 78%;
+    }
+    .ios {
+        width: 200px;
+    }
+    footer {
+        margin-top: 50px;
+    }
+}
+
+@media screen and (max-width:640px) {
+    .cards .card {
+        width: 45%;
+    }
+}
+
+@media screen and (max-width:605px) {
+    .main {
+        padding-bottom: 40px;
+        background-image: none;
+        background: linear-gradient(180deg, #0774C7 0%, #055DA0 100%);
+        width: 100%;
+        margin-left: 0px;
+    }
+    .app {
+        width: 100%;
+    }
+    .red {
+        margin: 8% auto;
+    }
+    .story {
+        width: 70%;
+    }
+    .main .text {
+        margin-left: 0px;
+        margin-top: 26px;
+    }
+    .main .text span {
+        font-size: 17px;
+    }
+    .main .text p {
+        font-size: 21px;
+        line-height: 20px;
+    }
+    .main .vedio img {
+        margin-top: 40px;
+    }
+    .cards {
+        margin-top: 300px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 400px;
+    }
+    .cards .card {
+        width: 75%;
+        margin-bottom: 15px;
+        /* position: sticky; */
+        /* height: 400px; */
+    }
+    .getboom {
+        margin-top: 250px;
+    }
+    .belowtext {
+        display: block;
+    }
+    .lasttext p {
+        font-size: small;
+    }
+    .below .belowtop img {
+        width: 50px;
+        height: 65px;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .main {
+        display: flex;
+        flex-direction: column;
+    }
+    .main .text {
+        width: 100%;
+        text-align: center;
+        margin-top: -10px;
+    }
+    .main .text p {
+        font-size: 16px;
+    }
+    .red {
+        margin: 1% auto;
+    }
+    .main .vedio img {
+        margin-top: 4px;
+    }
+    .vedio {
+        text-align: center;
+    }
+    .lasttext p {
+        font-size: x-small;
+    }
+    .app .essay {
+        width: 61%;
+    }
+    .app .essay {
+        margin-top: 14px;
+        margin-left: 0px;
+    }
+    .getboom {
+        margin-top: 300px;
+    }
+    .belowtext ul li {
+        margin-left: 10px;
+        font-size: small;
+    }
+}
+
+@media screen and (max-width:443px) {
+    .cards .card {
+        width: 90%;
+        margin-bottom: 15px;
+        /* position: sticky; */
+        /* height: 400px; */
+    }
+}
+
+@media screen and (max-width:360px) {
+    .card {
+        width: 100%;
+    }
+    .app .essay span {
+        font-size: 10px;
+    }
+    .app .essay {
+        width: 78%;
+    }
+    .cards .card {
+        width: 100%;
+        margin-bottom: 15px;
+        /* position: sticky; */
+        /* height: 400px; */
+    }
+    .below .belowtop img {
+        width: 40px;
+        height: 55px;
+    }
+}
+
+@media screen and (max-width:338px) {
+    .belowtext p {
+        font-size: small;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .shadow {
+        padding-left: 5px;
+    }
+    .main .vedio img {
+        width: 241px;
+        margin-top: 15px;
+        height: 161px;
+        margin-left: -20px;
+    }
+    .cards {
+        margin-top: 350px;
+    }
+    .getboom {
+        margin-top: 330px;
+    }
+}
+
+
+/* Responsive on 50% */
+
+@media screen and (min-width:1500px) {
+    .main {
+        width: 98%;
+        height: 500px;
+        display: flex;
+        justify-content: space-around;
+    }
+    .main .vedio img {
+        margin-right: 60px;
+        width: 650px;
+        margin-top: 60px;
+        height: 411px;
+    }
+    .main .text {
+        width: 500px;
+        margin-left: 250px;
+    }
+    .main .text p {
+        font-size: 42px;
+        line-height: 65px;
+    }
+    .main .text span {
+        font-size: 31px;
+        line-height: 5px;
+        font-weight: 400;
+    }
+    .red {
+        padding: 21px 0;
+        width: 430px;
+    }
+    .stories .story1 p {
+        font-size: 43px;
+        line-height: 50px;
+    }
+    .stories .story2 p {
+        font-size: 24px;
+        line-height: 35px;
+    }
+    .app .essay span {
+        font-size: 35px;
+    }
+    .app .essay ul {
+        font-size: 25px;
+        line-height: 40px;
+    }
+    .app .essay li {
+        font-size: 25px;
+    }
+    .cards {
+        height: 450px;
+    }
+    .cards .card1 img {
+        height: 125px;
+    }
+    .cards .card1 span {
+        font-size: 28px;
+    }
+    .cards .card1 p {
+        line-height: 32px;
+        font-size: 22px;
+    }
+    .ios {
+        width: 430px;
+        height: 80px;
+    }
+    .ios p {
+        font-size: 35px;
+    }
+    .below {
+        width: 75%;
+    }
+    footer {
+        padding-bottom: 160px;
+    }
+    .below img {
+        width: 200px;
+        height: 90px;
+    }
+    .below .belowtop {
+        padding-bottom: 10px;
+    }
+    .belowtext p,
+    li {
+        font-size: 30px;
+    }
+    .lasttext p {
+        font-size: 30px;
+    }
+    .logos svg {
+        width: 70px;
+        height: 70px;
+    }
+}
+
+@media screen and (min-width:2100px) {
+    .main .text {
+        width: 800px;
+    }
+    .main .text p {
+        font-size: 50px;
+        line-height: 70px;
+    }
+    .main .text span {
+        font-size: 39px;
+    }
+    .red {
+        width: 500px;
+    }
+    .main .vedio img {
+        margin-right: 179px;
+        width: 657px;
+        margin-top: 63px;
+        height: 434px;
+    }
+    .stories .story2 p {
+        font-size: 29px;
+    }
+    .app .essay ul {
+        font-size: 28px;
+        line-height: 56px;
+    }
+    .app .essay li {
+        font-size: 30px;
+    }
+    .cards {
+        height: 550px;
+    }
+    .cards .card1 img {
+        height: 165px;
+    }
+    .cards .card1 span {
+        font-size: 38px;
+    }
+    .cards .card1 p {
+        line-height: 38px;
+        font-size: 28px;
+    }
+    .ios {
+        width: 530px;
+        height: 90px;
+    }
+    .ios p {
+        font-size: 45px;
+    }
+}
