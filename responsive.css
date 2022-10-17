@@ -7,7 +7,7 @@
         line-height: 27px;
         color: #FFFFFF;
     }
-    .main .vedio img {
+    .main .vedio video {
         width: 438px;
         margin-top: 41px;
         height: 200px;
@@ -23,7 +23,7 @@
         line-height: 24px;
         color: #FFFFFF;
     }
-    .main .vedio img {
+    .main .vedio video {
         width: 400px;
         margin-top: 35px;
         height: 170px;
@@ -56,7 +56,7 @@
         line-height: 21px;
         color: #FFFFFF;
     }
-    .main .vedio img {
+    .main .vedio video {
         width: 300px;
         margin-top: 35px;
         height: 140px;
@@ -75,7 +75,7 @@
         line-height: 19px;
         color: #FFFFFF;
     }
-    .main .vedio img {
+    .main .vedio video {
         width: 280px;
         margin-top: 65px;
         height: 120px;
@@ -134,7 +134,7 @@
         margin-left: 70px;
         margin-top: 0px;
     }
-    .main .vedio img {
+    .main .vedio video {
         width: 280px;
         margin-top: 15px;
         height: 150px;
@@ -204,7 +204,7 @@
         font-size: 21px;
         line-height: 20px;
     }
-    .main .vedio img {
+    .main .vedio video {
         margin-top: 40px;
     }
     .cards {
@@ -222,6 +222,9 @@
     }
     .getboom {
         margin-top: 250px;
+    }
+    .below {
+        width: 90%;
     }
     .belowtext {
         display: block;
@@ -251,7 +254,7 @@
     .red {
         margin: 1% auto;
     }
-    .main .vedio img {
+    .main .vedio video {
         margin-top: 4px;
     }
     .vedio {
@@ -317,7 +320,7 @@
     .shadow {
         padding-left: 5px;
     }
-    .main .vedio img {
+    .main .vedio video {
         width: 241px;
         margin-top: 15px;
         height: 161px;
@@ -341,7 +344,7 @@
         display: flex;
         justify-content: space-around;
     }
-    .main .vedio img {
+    .main .vedio video {
         margin-right: 60px;
         width: 650px;
         margin-top: 60px;
@@ -442,7 +445,7 @@
     .red {
         width: 500px;
     }
-    .main .vedio img {
+    .main .vedio video {
         margin-right: 179px;
         width: 657px;
         margin-top: 63px;
